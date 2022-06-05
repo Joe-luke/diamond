@@ -72,7 +72,7 @@ ipywidgets==7.6.5
 itsdangerous==2.1.0
 jedi==0.18.1
 Jinja2==3.0.3
-joblib==1.1.0
+joblib
 jsonschema==4.4.0
 jupyter-client==7.1.2
 jupyter-core==4.9.2
